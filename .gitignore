@@ -140,3 +140,5 @@ local_settings.py
 .env
 db.sqlite3
 CSC648-EC2-Instance-Key-Pair.pem
+
+second_backend/venv
